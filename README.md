@@ -9,6 +9,8 @@ The Algorithm Used is Logistic Regression which gave results as shown in the ima
 
 
 ![Screenshot 2023-11-05 202622](https://github.com/AMR9871/Credit_Card_Fraud_Detection/assets/113165027/d9830e54-12d8-45e4-8e9b-fc004579a364)
+
 *For Balanced Data*
+
 <br>
 The things i learnt from this project is Data Exploration and Preprocessing,Data Splitting,Model Selection,Model Training and Evaluation 
